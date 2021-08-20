@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars Profile](https://www.codewars.com/users/jong9000/badges/large)
+![Codewars Profile](https://www.codewars.com/users/jong9000/badges/small)
 <!--
 **jong9000/jong9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
